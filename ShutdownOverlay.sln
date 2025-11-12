@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShutdownOverlay", "ShutdownOverlay.csproj", "{7AFD14E3-FAC5-433A-95A3-C4C79DA22CA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AFD14E3-FAC5-433A-95A3-C4C79DA22CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AFD14E3-FAC5-433A-95A3-C4C79DA22CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AFD14E3-FAC5-433A-95A3-C4C79DA22CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AFD14E3-FAC5-433A-95A3-C4C79DA22CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64C31D58-9D76-42D7-92B7-0BF64FA197F3}
+	EndGlobalSection
+EndGlobal
