@@ -7,6 +7,10 @@ When the timer reaches zero, the system shuts down silently.
 
 This app is ideal for encouraging healthy screen-time limits — for example, letting kids wrap up games or homework before bedtime without sudden shutdowns or constant reminders.
 
+<p align="center">
+  <img src="./Screenshot%202025-11-12%20130333.png" alt="Screenshot of Shutdown Overlay" width="700">
+</p>
+
 Features
 
 30-minute countdown timer (customizable)
